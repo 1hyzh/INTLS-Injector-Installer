@@ -1,3 +1,3 @@
 Main Repo here
 
-[Download Injector](https://github.com/1hyzh/INTLS)
+[INTLS](https://github.com/1hyzh/INTLS)
