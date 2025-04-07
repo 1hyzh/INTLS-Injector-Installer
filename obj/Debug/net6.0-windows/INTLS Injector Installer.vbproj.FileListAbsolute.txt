@@ -1,0 +1,23 @@
+C:\Users\hyzh\source\repos\INTLS Injector Installer\bin\Debug\net6.0-windows\INTLS Injector Installer.exe
+C:\Users\hyzh\source\repos\INTLS Injector Installer\bin\Debug\net6.0-windows\INTLS Injector Installer.deps.json
+C:\Users\hyzh\source\repos\INTLS Injector Installer\bin\Debug\net6.0-windows\INTLS Injector Installer.runtimeconfig.json
+C:\Users\hyzh\source\repos\INTLS Injector Installer\bin\Debug\net6.0-windows\INTLS Injector Installer.dll
+C:\Users\hyzh\source\repos\INTLS Injector Installer\bin\Debug\net6.0-windows\INTLS Injector Installer.pdb
+C:\Users\hyzh\source\repos\INTLS Injector Installer\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\hyzh\source\repos\INTLS Injector Installer\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\hyzh\source\repos\INTLS Injector Installer\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\hyzh\source\repos\INTLS Injector Installer\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\hyzh\source\repos\INTLS Injector Installer\obj\Debug\net6.0-windows\INTLS Injector Installer.vbproj.AssemblyReference.cache
+C:\Users\hyzh\source\repos\INTLS Injector Installer\obj\Debug\net6.0-windows\INTLS_Injector_Installer.Form1.resources
+C:\Users\hyzh\source\repos\INTLS Injector Installer\obj\Debug\net6.0-windows\INTLS_Injector_Installer.Resources.resources
+C:\Users\hyzh\source\repos\INTLS Injector Installer\obj\Debug\net6.0-windows\INTLS Injector Installer.vbproj.GenerateResource.cache
+C:\Users\hyzh\source\repos\INTLS Injector Installer\obj\Debug\net6.0-windows\INTLS Injector Installer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hyzh\source\repos\INTLS Injector Installer\obj\Debug\net6.0-windows\INTLS Injector Installer.AssemblyInfoInputs.cache
+C:\Users\hyzh\source\repos\INTLS Injector Installer\obj\Debug\net6.0-windows\INTLS Injector Installer.AssemblyInfo.vb
+C:\Users\hyzh\source\repos\INTLS Injector Installer\obj\Debug\net6.0-windows\INTLS Injector Installer.vbproj.CoreCompileInputs.cache
+C:\Users\hyzh\source\repos\INTLS Injector Installer\obj\Debug\net6.0-windows\INTLS In.CC67592A.Up2Date
+C:\Users\hyzh\source\repos\INTLS Injector Installer\obj\Debug\net6.0-windows\INTLS Injector Installer.dll
+C:\Users\hyzh\source\repos\INTLS Injector Installer\obj\Debug\net6.0-windows\refint\INTLS Injector Installer.dll
+C:\Users\hyzh\source\repos\INTLS Injector Installer\obj\Debug\net6.0-windows\INTLS Injector Installer.pdb
+C:\Users\hyzh\source\repos\INTLS Injector Installer\obj\Debug\net6.0-windows\INTLS Injector Installer.genruntimeconfig.cache
+C:\Users\hyzh\source\repos\INTLS Injector Installer\obj\Debug\net6.0-windows\ref\INTLS Injector Installer.dll

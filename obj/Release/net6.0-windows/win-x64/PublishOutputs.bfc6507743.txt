@@ -1,0 +1,2 @@
+C:\Users\hyzh\source\repos\INTLS Injector Installer\bin\Release\net6.0-windows\publish\win-x64\INTLS Injector Installer.pdb
+C:\Users\hyzh\source\repos\INTLS Injector Installer\bin\Release\net6.0-windows\publish\win-x64\INTLS Injector Installer.exe
