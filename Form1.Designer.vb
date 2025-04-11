@@ -134,7 +134,7 @@ Partial Class Form1
         Guna2TextBox1.BorderColor = Color.FromArgb(CByte(188), CByte(202), CByte(214))
         Guna2TextBox1.BorderRadius = 7
         Guna2TextBox1.CustomizableEdges = CustomizableEdges1
-        Guna2TextBox1.DefaultText = "%appdata%\INTLS Injector"
+        Guna2TextBox1.DefaultText = "C:\Program Files\INTLS"
         Guna2TextBox1.DisabledState.BorderColor = Color.FromArgb(CByte(208), CByte(208), CByte(208))
         Guna2TextBox1.DisabledState.FillColor = Color.FromArgb(CByte(226), CByte(226), CByte(226))
         Guna2TextBox1.DisabledState.ForeColor = Color.FromArgb(CByte(138), CByte(138), CByte(138))

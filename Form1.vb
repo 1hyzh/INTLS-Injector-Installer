@@ -2,7 +2,12 @@
 Imports Newtonsoft.Json
 Imports System.IO
 
+
+
+
 Public Class Form1
+
+
     ' Download the files based on JSON when Guna2Button2 is clicked
     Private Async Sub Guna2Button2_Click(sender As Object, e As EventArgs) Handles Guna2Button2.Click
         ' Check if path is empty
@@ -10,6 +15,7 @@ Public Class Form1
             MessageBox.Show("You must indicate the install path!", "INTLS", MessageBoxButtons.OK, MessageBoxIcon.Error)
             Return
         End If
+
 
         ' Define the URL for the JSON that contains download URLs
         Dim jsonUrl As String = "https://raw.githubusercontent.com/1hyzh/intls_ver/refs/heads/main/version.json" ' Replace with the actual URL to your JSON
@@ -44,7 +50,7 @@ Public Class Form1
             Await DownloadFileAsync(client, libcurlURL, destinationFolder)
 
             If Guna2CheckBox1.Checked = True Then
-                Process.Start(destinationFolder & "\_INTLS.exe")
+                Process.Start(destinationFolder & "\INTLS.Injector.exe")
             End If
         Catch ex As Exception
             ' Handle any errors (e.g., JSON fetch errors, download errors)
